@@ -9,7 +9,7 @@ This fork is in the kstreet GitHub account because the fork is the copy that is 
 
 **How Fresh Is This?**
 
-- The code in this port was current/similar to the `libphonenumber-csharp`
+- The code in this fork was current/similar to the `libphonenumber-csharp`
  repo up through [this January 7, 2014 commit](https://github.com/erezak/libphonenumber-csharp/commit/7d26cea18bd9d5058aa9b22857bbfa5348077a6e).
 
 Google provides [a nice online demo](http://libphonenumber.googlecode.com/svn/trunk/javascript/i18n/phonenumbers/demo-compiled.html) of what this library can do.
